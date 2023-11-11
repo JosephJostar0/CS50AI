@@ -1,0 +1,6 @@
+src/
+*.zip
+__pycache__/
+*.ico
+release/
+.vscode/
